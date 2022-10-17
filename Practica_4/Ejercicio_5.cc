@@ -14,7 +14,7 @@
     perimetro = longitud_lado * 4;
     area = longitud_lado * longitud_lado;
 
-    std::cout << "El perimetro del cuadrado es de: " << perimetro << "y su area de: " << area << std::endl;
+    std::cout << "El perimetro del cuadrado es de: " << perimetro << " y su area de: " << area << std::endl;
 
 
 

@@ -7,7 +7,7 @@
 
   int main() {
     double cantidad_euros{0};
-    const double yuanes{0,0075};
+    const double yuanes{0.0075};
     double conversion{0};
 
     std::cout << "Introduzca la cantidad de euros que desea convertir: " << std::endl;
@@ -15,7 +15,7 @@
 
     conversion = cantidad_euros * yuanes;
 
-    std::cout << cantidad_euros " euros, equivalen a: " << conversion << " yuanes" << std::endl;
+    std::cout << cantidad_euros << " euros, equivalen a: " << conversion << " yuanes" << std::endl;
 
     return 0;
   }

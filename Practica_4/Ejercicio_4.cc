@@ -5,7 +5,7 @@
   #include<vector>
 
   int main() {
-    int<vector>calificaciones[3] = {};
+    int calificaciones[4] = {};   // ¿PORQUE SI DECLARO UN VECTOR DE RANGO 3 ME SALE UN ERROR DE OVERFLOW?
     int media_total{0};
 
     std::cout << "Introduzca las calificaciones de los tres alumnos: " << std::endl;

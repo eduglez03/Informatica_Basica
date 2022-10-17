@@ -18,8 +18,8 @@
   #include<cmath>
 
   int main() {
-    int<vector>vector_1[3] = {};
-    int<vector>vector_2[3] = {};
+    int vector_1[4] = {};
+    int vector_2[4] = {};
     int distancia_puntos{0};
 
     std::cout << "Introduzca las cordenadas x, y , z del primer vector: " << std::endl;
