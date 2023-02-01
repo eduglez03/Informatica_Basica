@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/src/racionales.cc
+racionales.h
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/src/racionales.h
+algorithm
+-
+iostream
+-
+string
+-
+math.h
+-
+
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/src/racionales.h
+iostream
+-
+string
+-
+
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/src/racionales_main.cc
+fstream
+-
+iostream
+-
+string
+-
+math.h
+-
+racionales.h
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/src/racionales.h
+

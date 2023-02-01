@@ -1,0 +1,4 @@
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/build/CMakeFiles/edit_cache.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/build/CMakeFiles/racionales_main.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/racional/build/CMakeFiles/runTests.dir
