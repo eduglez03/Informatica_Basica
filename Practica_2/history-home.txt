@@ -1,0 +1,753 @@
+    1  apt update
+    2  apt search ovirt
+    3  sudo su
+    4  sudo su
+    5  clear
+    6  exit
+    7  clear
+    8  ssh usuario@10.6.128.84
+    9  clear
+   10  ssh usuario@10.6.128.84
+   11  exit
+   12  lsb_release -a
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  sudo apt autoremove
+   16  sudo apt install git
+   17  git --version
+   18  ifconfig -a
+   19  clear
+   20  ssh usuario@10.6.128.84
+   21  if config -a ifconfig -a clear; ssh usuario@10.6.128.84
+   22  ifconfig -a
+   23  exit
+   24  clear
+   25  code .
+   26  exit
+   27  ifconfig -a
+   28  clear
+   29  history
+   30  clear 
+   31  ssh usuario@10.6.128.84
+   32  clear
+   33  ls -ltr
+   34  cat clase\ viernes 
+   35  g++
+   36  sudo apt install g++
+   37  clear
+   38  ls -ltr
+   39  cat clase\ viernes 
+   40  g++
+   41  clear
+   42  code .
+   43  clear
+   44  code .
+   45  sudo anp install code
+   46  clear
+   47  code .
+   48  sudo snap install code
+   49  clear 
+   50  code .
+   51  ifconfi -a
+   52  clear
+   53  ifconfig -a
+   54  clear 
+   55  exit
+   56  whoami
+   57  exit
+   58  #include <iostream>
+   59  int main () {
+   60  ifconfig -a
+   61  ifcongfi -a
+   62  clear
+   63  ifconfig -a
+   64  clear 
+   65  whoami
+   66  clea 
+   67  clear
+   68  cat hello world
+   69  clear
+   70  ./Hello_World
+   71  ./Hello world
+   72  ./Hola Mundo
+   73  clear
+   74  ./Hola_Mundo
+   75  clearç
+   76  Clear
+   77  clear
+   78  /.bash_aliase
+   79  clear
+   80  .bashrc
+   81  .bash profile
+   82  .bash aliase
+   83  clear
+   84  sudo apt git
+   85  clear
+   86  sudo apt git
+   87  clear 
+   88  git -- version
+   89  git --version
+   90  clear 
+   91  ssh @usuario10.6.128.84clear
+   92  clear
+   93  cd
+   94  mkdir practicas
+   95  clear
+   96  ifconfig -a
+   97  clear
+   98  cd
+   99  mkdir practicas
+  100  cd practicas
+  101  git clone git@github.com:eduglez03/Informatica Basica.git
+  102  clear
+  103  cd
+  104  mkdir practicas
+  105  cd practicas
+  106  git@github.com:eduglez03/Practicas-Ib-2021-2022.git
+  107  clear
+  108  ./Hola Mundo
+  109  ./Hola_Mundo
+  110  clear
+  111  cd
+  112  clear
+  113  ./Hola Mundo
+  114  clear
+  115  ./Hola_Mundo
+  116  clear
+  117  ./hello_world
+  118  clear
+  119  cd practicas
+  120  ./hello_world
+  121  clear
+  122  cd
+  123  clear
+  124  .bash/aliase
+  125  clear
+  126  .bash/aliases
+  127  clearç
+  128  clear
+  129  .bash aliases
+  130  clear
+  131  .bash_aliases
+  132  .bash aliases
+  133  sudo install bash
+  134  clear
+  135  exit
+  136  clear
+  137  git@github.com:eduglez03/Practicas-Ib-2021-2022.git
+  138  clear
+  139  mkdir practicas
+  140  cd practicas
+  141  git clone git@github.com:eduglez03/Practicas-Ib-2021-2022.git
+  142  clear
+  143  exit
+  144  ls
+  145  cat Hola Mundo.cpp
+  146  clear 
+  147  ls
+  148  ls -r
+  149  clear
+  150  ls -l
+  151  clear 
+  152  exit
+  153  clear
+  154  exit
+  155  clear
+  156  tree
+  157  clear
+  158  tree
+  159  sudo install tree
+  160  clear
+  161  ls /
+  162  clear
+  163  exit
+  164  clear
+  165  ls practicas
+  166  clear
+  167  ls man
+  168  man ls
+  169  clear
+  170  explainshell
+  171  clear
+  172  whoami
+  173  clear
+  174  ifconfig -a
+  175  clear
+  176  cd practicas/
+  177  clear
+  178  cd
+  179  clear
+  180  prueba -p
+  181  clear
+  182  mkdir -p prueba
+  183  cd prueba
+  184  clear
+  185  cd
+  186  clear
+  187  rm -r prueba - remove
+  188  clear
+  189  cd prueba
+  190  clear
+  191  cd prueba
+  192  clear
+  193  cd practicas
+  194  clear
+  195  cd
+  196  clear
+  197  ls 
+  198  rm -r clase viernes -remove
+  199  clear 
+  200  rm -r clase viernes - remove
+  201  ls
+  202  clear
+  203  rm -r clase viernes
+  204  clear
+  205  ls
+  206  rm -r clase viernes
+  207  cd clase viernes
+  208  clear
+  209  cd clase viernes
+  210  cd practicas
+  211  clear 
+  212  cd
+  213  clear
+  214  mkdir prueba
+  215  cdprueba
+  216  cd prueba
+  217  clear
+  218  cd
+  219  mkdir prueba 2
+  220  mkdir prueba2
+  221  clear
+  222  cp -r prueba2 prueba
+  223  clear
+  224  cd prueba
+  225  ls
+  226  clear
+  227  cd
+  228  ls
+  229  ls -l
+  230  clear
+  231  mv prueba2 prueba - move
+  232  mv prueba2 prueba
+  233  clear
+  234  cd prueba
+  235  ls
+  236  clear
+  237  cd
+  238  ls
+  239  ls -l
+  240  cd prueba
+  241  ls -l
+  242  clear
+  243  cd
+  244  clear
+  245  find in -prueba prueba2
+  246  find hola mundo
+  247  find in -cd practicas
+  248  clear
+  249  find in cd practicas
+  250  find in practicas Hola Mundo.cpp
+  251  clear
+  252  git config --list
+  253  git config --global eduglez03
+  254  clear
+  255  git config --global
+  256  clear
+  257  git config -global
+  258  clear
+  259  git config --global
+  260  clear
+  261  git config --global eduglez03.name
+  262  clear
+  263  git config --global user.eduglez03
+  264  clear
+  265  git config --global user.name eduglez03
+  266  git config --global user.email alu0101461588@ull.edu.es
+  267  git config --list
+  268  cd .ssh/
+  269  ssh-keygen -t rsa -b 4096 -C "alu0101461588@ull.edu.es"
+  270  ls -l
+  271  clear
+  272  eval "$(ssh-agent -s)"
+  273  ssh-add ~/.ssh/id_ed25519
+  274  ssh-add ~/.ssh/id_rsa
+  275  clear
+  276  ls -l
+  277  cat id_rsa.pub
+  278  clear
+  279  ~/.bash_aliases
+  280  .bashrc
+  281  .bash profile
+  282  ~/.bash aliases
+  283  clear
+  284  exit
+  285  clear
+  286  cd 
+  287  mkdir practicas
+  288  cd practicas
+  289  exit
+  290  clear
+  291  cd practicaas
+  292  cd practicas
+  293  git clone git@github.com:eduglez03/Practicas-Ib-2021-2022.git
+  294  clear
+  295  cd
+  296  clear
+  297  ~/.ssh/id_rsa.pub
+  298  clip < ~/.ssh/id_rsa.pub
+  299  .ssh/id_rsa.pub
+  300  clear
+  301  .ssh
+  302  cd .ssh
+  303  /id_rsa.pub
+  304  clear
+  305  /id_rsa.pub
+  306  clear
+  307  ifconfig -a
+  308  cd .ssh
+  309  clear
+  310  ls -l
+  311  cat id_rsa.pub
+  312  cd
+  313  cd practicas
+  314  git clone git@github.com:eduglez03/Practicas-Ib-2021-2022.git
+  315  ls -l
+  316  cd Practicas-Ib-2021-2022
+  317  ls -l
+  318  clear
+  319  cd
+  320  clear
+  321  exit
+  322  clear
+  323  g++
+  324  clear
+  325  config
+  326  clear
+  327  cd .ssh
+  328  config
+  329  cd
+  330  cd bash aliases
+  331  clear
+  332  exit
+  333  clear
+  334  exit
+  335  clear
+  336  exit
+  337  clear
+  338  ifconfig -a
+  339  ls -l
+  340  code .
+  341  exit
+  342  hostname
+  343  whoami
+  344  ifconfig -a
+  345  exit
+  346  clear
+  347  ifconfig -a
+  348  clear
+  349  whoami
+  350  ls -l
+  351  code .
+  352  clear
+  353  df
+  354  clear
+  355  tree
+  356  sudo apt install tree
+  357  code .
+  358  sudo snap install code
+  359  clear
+  360  tree
+  361  rm Hola Mundo.cpp
+  362  rm -rf Hola Mundo.cpp
+  363  tree
+  364  cd Hola Mundo.cpp
+  365  rm -rf practicas
+  366  tree
+  367  rm -rf prueba
+  368  tree
+  369  clear
+  370  tree
+  371  cd 2
+  372  clear
+  373  rm -rf
+  374  tree
+  375  clear
+  376  cd
+  377  tree
+  378  rm -rf 2
+  379  tree
+  380  rm Hola Mundo.cpp
+  381  rm clase viernes
+  382  tree
+  383  clear
+  384  git clone git@github.com:eduglez03/Parcticas-Ib-2021-2022.git
+  385  git clone git@github.com:eduglez03/Practicas-Ib-2021-2022.git
+  386  tree
+  387  rm practicas
+  388  rm -rf practicas
+  389  tree
+  390  rm clase viernes
+  391  rm man
+  392  rm help
+  393  clear
+  394  tree
+  395  mkdir Practicas
+  396  tree
+  397  cd practicas
+  398  cd Practicas
+  399  mkdir p01-IaaS | mkdir p02-ComandosLinux
+  400  tree
+  401  cd
+  402  tree
+  403  mkdir Problemas
+  404  clear
+  405  tree
+  406  clear
+  407  cd Problemas
+  408  mkdir T01-Linux
+  409  cd T01-Linux
+  410  mkdir animales | mkdir minerales | mkdir textos | mkdir vegetales
+  411  tree
+  412  cd animales
+  413  mkdir aves | mkdir mamiferos |mkdir peces
+  414  tree
+  415  cd mamiferos
+  416  mkdir felinos
+  417  cd
+  418  tree
+  419  clear
+  420  sftp maquina Ib
+  421  clear
+  422  sftp maquinaIb
+  423  exit
+  424  tree
+  425  tar tvfz ejercicios_comandos_linux.tar.gz
+  426  cd T01-Linux
+  427  tree
+  428  cd T01-Linux
+  429  cd problemas
+  430  clear
+  431  tree
+  432  cd Problemas
+  433  cd T01-Linux
+  434  tar xvfz ejercicios_comandos_linux.tar.gz
+  435  tar xvfz /home/usuario/ejercicios_comandos_linux.tar.gz
+  436  clear
+  437  tree
+  438  cd
+  439  tree
+  440  cd Problemas
+  441  cd T01-Linux
+  442  file
+  443  cd ejercicios_comandos_linux
+  444  file
+  445  file txt
+  446  file cancion_sabina
+  447  clear
+  448  tree
+  449  cat canción_Lennon.txt
+  450  clear
+  451  which ls
+  452  cat/usr/bin/ls
+  453  clear
+  454  cd
+  455  clear
+  456  exit
+  457  clear
+  458  tree
+  459  cd T01-Linux
+  460  cd Problemas
+  461  cd T01-Linux
+  462  clear
+  463  mkdir binarios
+  464  tree
+  465  clear
+  466  cd
+  467  cd /usr/bin/
+  468  tree
+  469  copy
+  470  clear
+  471  cd Problemas
+  472  cd
+  473  cd Problemass
+  474  cd Problemas
+  475  cd T01-Linux
+  476  clear
+  477  cp -r /usr/bin/ ~/Problemas/T01-Linux/
+  478  tree
+  479  rm -rf bin
+  480  tree
+  481  cd binarios 
+  482  cp -r /usr/bin/ ~/Problemas/T01-Linux/binarios/
+  483  tree
+  484  clear
+  485  code ..
+  486  cd ..
+  487  tree
+  488  cat taxonomy
+  489  cd ejercicios_comandos_linux |cat taxonomy
+  490  cd ejercicios_comandos_linux
+  491  cat taxonomy
+  492  cd ..
+  493  clear
+  494  tree
+  495  cd Problemas
+  496  cd binario
+  497  cd binarios
+  498  cd T01-Linux
+  499  cd binario
+  500  cd binarios
+  501  cat binarios
+  502  cat
+  503  clear
+  504  tree
+  505  cd Practicas
+  506  clear
+  507  cd
+  508  clear
+  509  g++ -std=c++14 -g -Wall -o hello_world hello_world.cc
+  510  clear
+  511  ./hello_world
+  512  clear
+  513  tree
+  514  cd Practicas-Ib-2021-2022
+  515  g++ -std=c++14 -g -Wall -o hello_world hello_world.cpp
+  516  ./hello_world
+  517  g++ hello world.cpp
+  518  g++ hello_world.cpp
+  519  ./hello_world
+  520  clear
+  521  g++ hello_world
+  522  g++ hello_world.cpp
+  523  ./hello_world
+  524  clear
+  525  cd
+  526  clear
+  527  exit
+  528  clear
+  529  cd Practicas-Ib-2021-2022
+  530  g++ hello_world.cpp
+  531  ./hello_world.cpp
+  532  exit
+  533  clear
+  534  cd Practicas-Ib-2021-2022
+  535  ./hello_world
+  536  clear
+  537  cd
+  538  exit
+  539  tree
+  540  g++ -std=c++14 -g -Wall -o hello_world hello_world.cc
+  541  ./hello_world
+  542  exit
+  543  tree
+  544  g++ -std=c++14 -g -Wall -o hello_world hello_world.cc
+  545  ./hello_world
+  546  exit
+  547  g++ -std=c++14 -g -Wall -o hello_world hello_world.cc
+  548  ./hello_world
+  549  exit
+  550  clear
+  551  cd Practicas
+  552  tree
+  553  git clone git@github.com:ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands.git
+  554  tree
+  555  cd ib-2021-2022-assignment-02-commands
+  556  clear
+  557  tree
+  558  sftp
+  559  clear
+  560  cd
+  561  clear
+  562  exit
+  563  tree
+  564  copy Chiste.odt Practicas
+  565  cp Chiste.odt Practicas
+  566  cd Practicas
+  567  tree
+  568  cp Chiste.odt ib-2021-2022-assignment-02-commands
+  569  tree
+  570  cd ib-2021-2022-assignment-02-commands
+  571  g++ square.cc
+  572  ./square
+  573  ./square.cc
+  574  g++ -std=c++14 -g -Wall -o square square.cc
+  575  ./square
+  576  clear
+  577  g++ square.cc
+  578  ./square
+  579  ./square 
+  580  tree
+  581  rm -rf a.out
+  582  tree
+  583  mv square.cc square_numbers.cc
+  584  tree
+  585  cd
+  586  more /proc/cpuinfo
+  587  clear
+  588  cat /proc/cpuinfo
+  589  clear
+  590  more /proc/cpuinfo
+  591  clear
+  592  cd Practicas
+  593  tree
+  594  rm -rf Chiste.odt
+  595  tree
+  596  cd ib-2021-2022-assignment-02-commands
+  597  cat long-text-file.txt
+  598  more long-text-file.txt
+  599  clear
+  600  g++ square.cc
+  601  ls -l
+  602  cd
+  603  g++ square.cc
+  604  apt search ovirt
+  605  exit
+  606  ifconfig -a
+  607  ls -l
+  608  clear
+  609  grep strig target-file
+  610  cd Parcticas
+  611  cd Practicas
+  612  tree
+  613  cd ib-2021-2022-assignment-02-commands
+  614  grep capitulo long-text-file
+  615  grep capitulo long-text-file.txt
+  616  tree
+  617  clear
+  618  cd
+  619  clear
+  620  exit
+  621  clear
+  622  tree
+  623  rm -r Problemas
+  624  tree
+  625  rm .r Chistes.odt
+  626  rm -r Chiste.odt
+  627  tree
+  628  rm -r Hola Mundo.cpp
+  629  rm -r hello_world.cc
+  630  tree
+  631  rm -r clase viernes
+  632  rm -rf clase viernes
+  633  tree
+  634  rm -rf Hola Mundo.cpp
+  635  tree
+  636  rm -r hello_world
+  637  tree
+  638  rm -r ejercicios_comandos_linux.tar.gz
+  639  tree
+  640  rm Hola Mundo.cpp
+  641  rm clase viernes
+  642  rm -rf clase viernes
+  643  tree
+  644  rm -rf Untitled-1.cpp
+  645  tree
+  646  rm -r clase viernes
+  647  rm -rf clase_viernes
+  648  tree
+  649  rm -r Hola_Mundo.cpp
+  650  rm -rf Hola Mundo.cpp
+  651  tree
+  652  clear
+  653  tree
+  654  mkdir Problemas
+  655  tree
+  656  rm clase viernes
+  657  rm  Hola Mundo.cpp
+  658  rm -rf  Hola Mundo.cpp
+  659  tree
+  660  clear
+  661  tree
+  662  rm -r clase viernes
+  663  rm -r Hola Mundo.cpp
+  664  clear
+  665  tree
+  666  cd ib-2021-2022-assignment-02-commands
+  667  cd Prcaticas
+  668  cd Practicas
+  669  cd ib-2021-2022-assignment-02-commands
+  670  tree
+  671  rm -r Chiste.odt
+  672  tree
+  673  clear
+  674  tree
+  675  cat ProgrammingJoke.txt
+  676  vi ProgrammingJoke.txt
+  677  cat ProgrammingJoke.txt
+  678  clear
+  679  tree
+  680  cat square_numbers.cc
+  681  rm -rf square
+  682  tree
+  683  clear
+  684  tree
+  685  cat square_numbers.cc
+  686  vi square_numbers.cc
+  687  subl square_numbers.cc
+  688  sudo snap install sublime-text
+  689  sudo apt install square_numbers.cc
+  690  sudo apt install sublime-text
+  691  clear
+  692  cd
+  693  ln -s /Applications/Sublime Text.app/Contents/SharedSupport/bin/subl usr/local/bin/subl
+  694  clear
+  695  tree
+  696  cd Practicas
+  697  cd ib-2021-2022-assignment-02-commands
+  698  tree
+  699  vi square_numbers.cc
+  700  vim
+  701  clear
+  702  cd Practicas
+  703  tree
+  704  cd ib-2021-2022-assignment-02-commands
+  705  clear
+  706  tree
+  707  vim square_numbers.cc
+  708  cat square_numbers.cc 
+  709  g++ square_numbers.cc 
+  710  ./square
+  711  g++ -std=c++14 -g -Wall -o square square.cc
+  712  tree
+  713  ./square_numbers
+  714  ./ square_numbers
+  715  g++ -std=c++14 -g -Wall -o square square.cc
+  716  g++ -std=c++14 -g -Wall -o square_numbers square_numbers.cc
+  717  tree
+  718  ./square_numbers
+  719  clear
+  720  tree
+  721  rm -r a.out
+  722  tree
+  723  cat long-text-file.txt
+  724  clear
+  725  tree
+  726  grep aula long-text-file.txt
+  727  grep -o "\w*aula\w*" long-text-file.txt | sort | uniq -c
+  728  mkdir aula.txt
+  729  cp grep -o "\w*aula\w*" long-text-file.txt | sort | uniq -c
+  730  cp grep -o "\w*aula\w*" long-text-file.txt | sort | uniq -c aula.txt
+  731  tree
+  732  vim aula.txt
+  733  cat aula.txt
+  734  tree
+  735  vi aula.txt/
+  736  cd
+  737  gdb
+  738  sudo apt install gdb
+  739  clear
+  740  gdb
+  741  clear
+  742  history > history-home.txt
+  743  tree
+  744  sftp
+  745  clear
+  746  sftp eduardo@eduardo-VirtualBox
+  747  clear
+  748  ssh maquinaIb
+  749  clear
+  750  tree
+  751  rm -rf history-home.txt
+  752  tree
+  753  history > history-home.txt
