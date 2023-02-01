@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/3.date/src/03-Date.cc
+03-Date.h
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/3.date/src/03-Date.h
+cmath
+-
+fstream
+-
+iostream
+-
+string
+-
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/3.date/src/03-Date.h
+string
+-
+
