@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/collatz-conjecture.dir/collatz_conjecture_test.cpp.o CMakeFiles/collatz-conjecture.dir/collatz_conjecture.cpp.o CMakeFiles/collatz-conjecture.dir/test/tests-main.cpp.o  -o collatz-conjecture 

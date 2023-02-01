@@ -1,0 +1,4 @@
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/collatz-conjecture/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/collatz-conjecture/build/CMakeFiles/test_collatz-conjecture.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/collatz-conjecture/build/CMakeFiles/edit_cache.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/collatz-conjecture/build/CMakeFiles/collatz-conjecture.dir
