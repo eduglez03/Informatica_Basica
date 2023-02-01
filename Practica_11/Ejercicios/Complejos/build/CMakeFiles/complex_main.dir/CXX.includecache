@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/4.complejos/src/complex.cc
+complex.h
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/4.complejos/src/complex.h
+cmath
+-
+iostream
+-
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/4.complejos/src/complex.h
+ostream
+-
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/4.complejos/src/complex_main.cc
+iostream
+-
+complex.h
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/4.complejos/src/complex.h
+
