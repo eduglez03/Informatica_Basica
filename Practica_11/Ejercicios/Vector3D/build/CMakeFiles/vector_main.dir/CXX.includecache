@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/1.vector3D/src/vector.cc
+vector.h
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/1.vector3D/src/vector.h
+cmath
+-
+iostream
+-
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/1.vector3D/src/vector.h
+ostream
+-
+
