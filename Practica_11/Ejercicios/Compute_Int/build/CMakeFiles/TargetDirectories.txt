@@ -1,0 +1,4 @@
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/build/CMakeFiles/edit_cache.dir
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/build/CMakeFiles/compute_int_main.dir
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/build/CMakeFiles/runTests.dir

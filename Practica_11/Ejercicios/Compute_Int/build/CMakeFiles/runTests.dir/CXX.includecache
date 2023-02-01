@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/compute_int.h
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/src/compute_int.cc
+compute_int.h
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/src/compute_int.h
+cmath
+-
+iostream
+-
+vector
+-
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/src/compute_int.h
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/test/gtest_main.cc
+gtest/gtest.h
+-
+iostream
+-
+
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/test/test_compute_int.cc
+gtest/gtest.h
+-
+compute_int.h
+/home/usuario/ib-2021-2022-p11_oop-gtests-eduglez03/2.compute_int/test/compute_int.h
+
