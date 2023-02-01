@@ -1,0 +1,4 @@
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/robot-simulator-opcional/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/robot-simulator-opcional/build/CMakeFiles/edit_cache.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/robot-simulator-opcional/build/CMakeFiles/test_robot-simulator-opcional.dir
+/home/usuario/ib-2021-2022-p12_oop-exercism-eduglez03/robot-simulator-opcional/build/CMakeFiles/robot-simulator-opcional.dir

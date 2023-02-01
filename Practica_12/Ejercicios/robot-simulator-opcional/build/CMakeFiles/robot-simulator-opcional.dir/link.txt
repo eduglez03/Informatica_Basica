@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/robot-simulator-opcional.dir/robot_simulator_opcional_test.cpp.o CMakeFiles/robot-simulator-opcional.dir/robot_simulator_opcional.cpp.o CMakeFiles/robot-simulator-opcional.dir/test/tests-main.cpp.o  -o robot-simulator-opcional 
